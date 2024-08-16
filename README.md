@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 # Water Remainder Card
 
-This is a simple card design to practice React setup , usage , card component and tailwind css 
+This is a simple card design to practice React setup , usage , card component and tailwind css.
